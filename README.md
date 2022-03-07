@@ -10,4 +10,4 @@
 
 ### འགྲེལ་བཤད་འཕར་མ།
 - མཉེན་ཆས་འདི་ནི་ཨན་ཌི་མ་ལག་ཅན་གྱི་མཉེན་ཆས་རིགས་ཁོ་ནའི་ནང་མ་གཏོགས་བཀོལ་མི་ཐུབ།
-### [laglensodunma.mp3](https://github.com/buda-apps/Audio-Prayer/releases/download/v1.0.0/default.mp3) སྒྲ་འགྲེལ་ཕབ་ལེན་བྱོས།
+### [Audio Prayer.mp3](https://github.com/buda-apps/Audio-Prayer/releases/download/v1.0.0/default.mp3) སྒྲ་འགྲེལ་ཕབ་ལེན་བྱོས།
